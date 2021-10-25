@@ -11,49 +11,61 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science / Cognitive & Linguistic Sciences, Wellesley College, 2020
+* M.S.E in Computer Science, Princeton University, 2022 (expected)
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept. 2020 - Now: Research Assistant
+  * Princeton Natural Language Processing Group
+  * Princeton University, Princeton NJ
+  * Advisor: Danqi Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2018 - July 2020: Research Assistant
+  * Mobile Crowdsensing
+  * Wellesley College, Wellesley MA
+  * Advisor: Christine Bassem
+
+* May 2019 - Aug. 2019: Software Engineering Intern
+  * Goolge Shopping Assistant, Natural Language Team
+  * Google, Pittsburgh PA
+  * Supervisors: Jesse Welch, John Karro
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* Introduction to Programming Systems (COS217), Princeton University
+* Data Structures (CS220), Wellesley College
   
+Honors and Awards
+======
+* Siebel Scholars, Class of 2022
+* Sigma Xi Scientific Research Honor Society
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Representative on Board of Admission, Wellesley College, 2019
