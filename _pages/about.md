@@ -17,16 +17,16 @@ Outside of research, I enjoy all kinds of sports, cooking/baking, and reading.
 
 Research
 ======
-My research focuses on building agents that genuinely (or seemingly) understand natural languages. As of now, I am especially interested in question answering, instruction tuning, natural language understanding, text generation, etc.
+My research focuses on building agents that understand and use natural languages by learning from human behaviors. As of now, I am especially interested in question answering, instruction tuning, natural language understanding, text generation, etc.
 
 Ongoing and finished projects include:
 *  **Conversational Question Answering** - re-evaluating the current evaluation protocol for Conversational Question Answering models
-*  **Instruction Understanding** - training seq2seq models to understand natural language instructions
+*  **Instruction Understanding** - training seq2seq models for task transfer by understand natural language instructions
 
 Teaching
 ======
 * Introduction to Programming Systems (COS217), Princeton University
-* Data Structures (CS220), Wellesley College
+* Data Structures (CS230), Wellesley College
 
 Experience
 ======
@@ -39,13 +39,14 @@ Experience
   * Advisor: Christine Bassem
 
 * Google. *SWE Intern. May 2019 - Aug. 2019*
-  * Intern with Shopping Assistant, Natural Language Team
+  * Individual engineering project, Shopping Assistant, Natural Language Team
   * Supervisors: Jesse Welch, John Karro
 
 Honors and Awards
 ======
 * Siebel Scholars, Class of 2022
-* Sigma Xi Scientific Research Honor Society
+* Sigma Xi Scientific Research Honor Society, Class of 2020
+* Durant Scholars *magna cum laude*, Class of 2020
 
 Service and leadership
 ======
