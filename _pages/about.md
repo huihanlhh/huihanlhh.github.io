@@ -50,4 +50,4 @@ Honors and Awards
 
 Service and leadership
 ======
-* Student Representative on Board of Admission. Wellesley College. 2019
+* Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*
