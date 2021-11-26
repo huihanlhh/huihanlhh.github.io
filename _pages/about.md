@@ -21,7 +21,7 @@ My research focuses on building agents that understand and use natural languages
 
 Ongoing and finished projects include:
 *  **Conversational Question Answering** - re-evaluating the current evaluation protocol for Conversational Question Answering models
-*  **Instruction Understanding** - training seq2seq models for task transfer by understand natural language instructions
+*  **Instruction Understanding** - achieving task transfer by training Seq2Seq models to understand natural language instructions
 
 Teaching
 ======
