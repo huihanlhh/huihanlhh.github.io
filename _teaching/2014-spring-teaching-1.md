@@ -1,10 +1,10 @@
 ---
-title:"Data Structures"
+title: "Teaching experience 1"
 collection: teaching
-type: "CS 230"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Wellesley College. Department of Computer Science"
-date: 2018-01
+venue: "University 1, Department"
+date: 2014-01-01
 location: "City, Country"
 ---
 

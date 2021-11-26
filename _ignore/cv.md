@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include http://huihanlhh.github.io/files/Huihan_Li_CV.pdf %}

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Huihan Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,29 +25,29 @@ Ongoing and finished projects include:
 
 Teaching
 ======
-* Introduction to Programming Systems (COS217), Princeton University
-* Data Structures (CS230), Wellesley College
+* Introduction to Programming Systems (COS217). Princeton University
+* Data Structures (CS230). Wellesley College
 
 Experience
 ======
-* Princeton NLP Group. *M.S.E Student. Sept. 2020 - Present*
+* **Princeton NLP Group**. M.S.E Student. *Sept. 2020 - Present*
   * Research in Natural Language Processing
   * Advisor: Danqi Chen
 
-* Wellesley College. *Research Assistant. Sept. 2018 - July 2020*
+* **Wellesley College**. Research Assistant. *Sept. 2018 - July 2020*
   * Research in Mobile Crowdsensing
   * Advisor: Christine Bassem
 
-* Google. *SWE Intern. May 2019 - Aug. 2019*
+* **Google**. SWE Intern. *May 2019 - Aug. 2019*
   * Individual engineering project, Shopping Assistant, Natural Language Team
   * Supervisors: Jesse Welch, John Karro
 
 Honors and Awards
 ======
-* Siebel Scholars, Class of 2022
-* Sigma Xi Scientific Research Honor Society, Class of 2020
-* Durant Scholars *magna cum laude*, Class of 2020
+* Siebel Scholars. Princeton University. *Sept. 2021*
+* Sigma Xi Scientific Research Honor Society. Wellesley College. *May 2020*
+* Durant Scholars *magna cum laude*. Wellesley College. *May 2020*
 
 Service and leadership
 ======
-* Student Representative on Board of Admission, Wellesley College, 2019
+* Student Representative on Board of Admission. Wellesley College. 2019
