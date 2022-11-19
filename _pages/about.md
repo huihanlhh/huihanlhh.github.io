@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Huihan Li. I'm a second-year M.S.E student studying Computer Science in Princeton University. I'm part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/), advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
+Hi, my name is Huihan Li. I'm a first year PhD student working on Natural Language Processing in University of Southern California. I'm part of the [INK Lab](https://inklab.usc.edu/), advised by [Xiang Ren](https://shanzhenren.github.io/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
 
 I am passionate about Natural Language Processing, Computational Linguistics, and everything about languages. In high school, I competed in [International Linguistics Olympiad](https://ioling.org/) representing China.
 
@@ -17,11 +17,7 @@ Outside of research, I enjoy all kinds of sports, cooking/baking, and reading.
 
 Research
 ======
-My research focuses on building agents that understand and use natural languages by learning from human behaviors. As of now, I am especially interested in question answering, instruction tuning, natural language understanding, text generation, etc.
-
-Ongoing and finished projects include:
-*  **Conversational Question Answering** - re-evaluating the current evaluation protocol for Conversational Question Answering models
-*  **Instruction Understanding** - achieving task transfer by training Seq2Seq models to understand natural language instructions
+My research focuses on training and evaluating language models using tasks that require mastering knowledge of the world. As of now, I am especially interested in robust natural language understanding, generation following constraints, and question answering.
 
 Teaching
 ======
@@ -30,7 +26,15 @@ Teaching
 
 Experience
 ======
-* **Princeton NLP Group**. M.S.E Student. *Sept. 2020 - Present*
+* **Ink Lab, USC**. PhD Student. *Sept. 2022 - Present*
+  * Research in Natural Language Processing
+  * Advisor: Xiang Ren
+
+* **Apple**. AI/ML Intern. *May 2022 - Aug. 2022*
+  * Individual NLP research/engineering project, Siri Information Intelligence, Answers and Web Ranking Team
+  * Mentors & Supervisors: Michael Tu, Nihkil Ramesh, Chris Dubois
+
+* **Princeton NLP Group**. M.S.E Student. *Sept. 2020 - May 2022*
   * Research in Natural Language Processing
   * Advisor: Danqi Chen
 

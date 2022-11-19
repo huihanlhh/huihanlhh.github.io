@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huihan Li"
 title_separator          : "-"
 name                     : &name "Huihan Li"
-description              : &description "M.S.E student @PrincetonCS"
+description              : &description "PhD student @USCNLP"
 url                      : https://huihanlhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huihanlhh/huihanlhh.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Huihan Li"
   avatar           : "huihan_li.jpg"
-  bio              : "NLP @Princeton"
-  location         : "Princeton, NJ"
+  bio              : "NLP @USCNLP"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NxdcyroAAAAJ&hl=en&oi=ao"
-  email            : "huihanl[at]princeton[dot]edu"
+  email            : "huihanl[at]usc[dot]edu"
   cv               : "https://huihanlhh.github.io/files/Huihan_Li_CV.pdf"
   researchgate     : 
   uri              :
