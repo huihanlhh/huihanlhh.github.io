@@ -5,6 +5,6 @@ date: 2022-05-22
 venue: '[Outstanding Paper] ACL'
 paperurl: 'https://arxiv.org/abs/2112.08812'
 link: 'https://arxiv.org/abs/2112.08812'
-codeurl: 'hhttps://github.com/princeton-nlp/evalconvqa'
+codeurl: 'https://github.com/princeton-nlp/evalconvqa'
 authors: 'Huihan Li*, Tianyu Gao*, Manan Goenka, Danqi Chen (* indicates equal contribution)'
 ---

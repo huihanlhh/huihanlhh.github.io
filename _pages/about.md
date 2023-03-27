@@ -19,6 +19,10 @@ Research
 ======
 My research focuses on training and evaluating language models using tasks that require mastering knowledge of the world. As of now, I am especially interested in robust natural language understanding, generation following constraints, and question answering.
 
+News
+======
+* **March 2022**. I will be joining [AI2 Mosaic Team](https://mosaic.allenai.org/people) as a summer research intern starting May 2023, working with [Nouha Dziri](https://webdocs.cs.ualberta.ca/~dziri/)!
+
 Teaching
 ======
 * Introduction to Programming Systems (COS217). Princeton University
