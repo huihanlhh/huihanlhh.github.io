@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Huihan Li. I'm a first year PhD student working on Natural Language Processing in University of Southern California. I'm part of the [INK Lab](https://inklab.usc.edu/), advised by [Xiang Ren](https://shanzhenren.github.io/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
+Hi, my name is Huihan Li. I'm a second year PhD student working on Natural Language Processing in University of Southern California. I'm part of the [INK Lab](https://inklab.usc.edu/), advised by [Xiang Ren](https://shanzhenren.github.io/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
 
 I am passionate about Natural Language Processing, Computational Linguistics, and everything about languages. In high school, I competed in [International Linguistics Olympiad](https://ioling.org/) representing China.
 
@@ -33,6 +33,10 @@ Experience
 * **Ink Lab, USC**. PhD Student. *Sept. 2022 - Present*
   * Research in Natural Language Processing
   * Advisor: Xiang Ren
+
+* **AI2, Mosaic**. Research Intern. *May 2023 - Present*
+  * Work on Multicultural biases in LM
+  * Mentor: Nouha Dziri
 
 * **Apple**. AI/ML Intern. *May 2022 - Aug. 2022*
   * Individual NLP research/engineering project, Siri Information Intelligence, Answers and Web Ranking Team
