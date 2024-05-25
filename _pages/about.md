@@ -21,7 +21,7 @@ My research focuses on training and evaluating language models using tasks that 
 
 News
 ======
-* **March 2022**. I will be joining [AI2 Mosaic Team](https://mosaic.allenai.org/people) as a summer research intern starting May 2023, working with [Nouha Dziri](https://webdocs.cs.ualberta.ca/~dziri/)!
+* **March 2022**. I will be joining [AI2 Mosaic Team](https://mosaic.allenai.org/people) as a summer research intern starting May 2023, working with [Nouha Dziri](https://nouhadziri.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/)!
 
 Teaching
 ======
@@ -36,7 +36,7 @@ Experience
 
 * **AI2, Mosaic**. Research Intern. *May 2023 - Present*
   * Work on Multicultural biases in LM
-  * Mentor: Nouha Dziri
+  * Mentor: Nouha Dziri, Yejin Choi
 
 * **Apple**. AI/ML Intern. *May 2022 - Aug. 2022*
   * Individual NLP research/engineering project, Siri Information Intelligence, Answers and Web Ranking Team
@@ -62,4 +62,5 @@ Honors and Awards
 
 Service and leadership
 ======
+* Reviewer. COLING 2024, ARR 2024
 * Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*
