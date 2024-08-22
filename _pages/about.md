@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Huihan Li. I'm a second year PhD student working on Natural Language Processing in University of Southern California. I'm part of the [INK Lab](https://inklab.usc.edu/), advised by [Xiang Ren](https://shanzhenren.github.io/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
+Hi, my name is Huihan Li. I'm a third year PhD student working on Natural Language Processing in University of Southern California. I'm part of the [INK Lab](https://inklab.usc.edu/), advised by [Xiang Ren](https://shanzhenren.github.io/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
 
-I am passionate about Natural Language Processing, Computational Linguistics, and everything about languages. In high school, I competed in [International Linguistics Olympiad](https://ioling.org/) representing China.
+I am passionate about Natural Language Processing, Computational Linguistics, and everything about languages. In high school, I competed in [International Linguistics Olympiad](https://ioling.org/) representing China, and won an Honorable Mention in Sofia, Bulgaria (2015) and a Bronze Medal in Mysore, India (2016).
 
-Outside of research, I enjoy all kinds of sports, cooking/baking, and reading.
-
+Outside of research, I enjoy all kinds of sports, cooking/baking, and reading. I played water polo in college and it had been one of my best memories. Currently, I am learning tennis.
 
 Research
 ======
-My research focuses on training and evaluating language models using tasks that require mastering knowledge of the world. As of now, I am especially interested in robust natural language understanding, generation following constraints, and question answering.
+My research focuses on training and evaluating language models for robust generalization. As of now, I am especially interested in the low-confidence domain or distribution, *i.e.* the long-tail distribution. My broad research goal involves two key objectives: (1) understanding the impact of data frequency on model memorization and generalization, and (2) developing methods for detecting and generating long-tail data to enhance model performance across diverse scenarios. A full list of my publications is in [this link](https://huihanlhh.github.io/publications/).
 
 News
 ======
-* **March 2022**. I will be joining [AI2 Mosaic Team](https://mosaic.allenai.org/people) as a summer research intern starting May 2023, working with [Nouha Dziri](https://nouhadziri.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/)!
+* **August 2024**. I am awarded the [Amazon ML PhD Fellowship](https://trustedai.usc.edu/fellowships) for 2024-2025. This fellowship will support my work on Secure and Trusted Machine Learning.
+* **July 2024**. Our [paper](https://arxiv.org/abs/2404.10199), "CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting", is accepted to COLM 2024. See you in Philly in October!
+* **March 2023**. I will be joining [AI2 Mosaic Team](https://mosaic.allenai.org/people) as a summer research intern starting May 2023, working with [Nouha Dziri](https://nouhadziri.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/)!
 
 Teaching
 ======
@@ -56,11 +57,12 @@ Experience
 
 Honors and Awards
 ======
+* Amazon Fellow. University of Southern California. *Aug. 2024*
 * Siebel Scholars. Princeton University. *Sept. 2021*
 * Sigma Xi Scientific Research Honor Society. Wellesley College. *May 2020*
 * Durant Scholars *magna cum laude*. Wellesley College. *May 2020*
 
 Service and leadership
 ======
-* Reviewer. COLING 2024, ARR 2024
+* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR Aug 2024, COLING 2025
 * Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*

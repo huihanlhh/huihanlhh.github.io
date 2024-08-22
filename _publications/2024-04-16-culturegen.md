@@ -2,7 +2,7 @@
 title: "CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting"
 collection: publications
 date: 2024-04-26
-venue: 'arxiv'
+venue: 'COLM 2024'
 paperurl: 'https://arxiv.org/abs/2404.10199'
 link: 'https://arxiv.org/abs/2404.10199'
 codeurl: 'https://github.com/huihanlhh/Culture-Gen'
