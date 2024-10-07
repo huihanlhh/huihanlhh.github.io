@@ -16,7 +16,7 @@ Outside of research, I enjoy all kinds of sports, cooking/baking, and reading. I
 
 Research
 ======
-My research focuses on training and evaluating language models for robust generalization. As of now, I am especially interested in the low-confidence domain or distribution, *i.e.* the long-tail distribution. My broad research goal involves two key objectives: (1) understanding the impact of data frequency on model memorization and generalization, and (2) developing methods for detecting and generating long-tail data to enhance model performance across diverse scenarios. A full list of my publications is in [this link](https://huihanlhh.github.io/publications/).
+My research focuses on training and evaluating language models for robust generalization. As of now, I am especially interested in attributing LM performance to pretraining data. My broad research goal involves two key objectives: (1) understanding the impact of data frequency on model learning, especially in the low-confidence domain or distribution, *i.e.* the long-tail distribution; (2) developing methods for detecting and generating long-tail data to enhance model performance across diverse scenarios. A full list of my publications is in [this link](https://huihanlhh.github.io/publications/).
 
 News
 ======
@@ -64,5 +64,5 @@ Honors and Awards
 
 Service and leadership
 ======
-* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR Aug 2024, COLING 2025
+* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR Aug 2024, COLING 2025, ICLR 2025
 * Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*
