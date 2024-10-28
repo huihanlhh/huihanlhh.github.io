@@ -14,12 +14,17 @@ I am passionate about Natural Language Processing, Computational Linguistics, an
 
 Outside of research, I enjoy all kinds of sports, cooking/baking, and reading. I played water polo in college and it had been one of my best memories. Currently, I am learning tennis.
 
+** I am actively looking for Summer 2025 Research internships. If my background seems fit to your team, please definitely reach out! **
+
 Research
 ======
-My research focuses on training and evaluating language models for robust generalization. As of now, I am especially interested in attributing LM performance to pretraining data. My broad research goal involves two key objectives: (1) understanding the impact of data frequency on model learning, especially in the low-confidence domain or distribution, *i.e.* the long-tail distribution; (2) developing methods for detecting and generating long-tail data to enhance model performance across diverse scenarios. A full list of my publications is in [this link](https://huihanlhh.github.io/publications/).
+My research focuses on training and evaluating language models for robust generalization in *unfamiliar situations*. While many paths lead to Rome, I believe in creating comprehensive data and effective methods to learn from the data. As of now, I am especially interested in attributing LM performance to pretraining data. My broad research goal involves two key objectives: (1) understanding the impact of pretraining data on model learning, especially how models behave in situations that are rare or non-existent in pretraining, *i.e.* the long-tail distribution; (2) developing methods for detecting and generating long-tail data to enhance model performance across diverse scenarios.
+
+Previously, I have worked on conversation models, constraint decoding, culture bias, and long-tail data generation. A full list of my publications is in [this link](https://huihanlhh.github.io/publications/).
 
 News
 ======
+* **September 2024**. Our [paper](https://arxiv.org/abs/2311.07237), "In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search", is accepted to EMNLP 2024 Main Conference. See you in Miami in November!
 * **August 2024**. I am awarded the [Amazon ML PhD Fellowship](https://trustedai.usc.edu/fellowships) for 2024-2025. This fellowship will support my work on Secure and Trusted Machine Learning.
 * **July 2024**. Our [paper](https://arxiv.org/abs/2404.10199), "CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting", is accepted to COLM 2024. See you in Philly in October!
 * **March 2023**. I will be joining [AI2 Mosaic Team](https://mosaic.allenai.org/people) as a summer research intern starting May 2023, working with [Nouha Dziri](https://nouhadziri.github.io/) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/)!
@@ -64,5 +69,5 @@ Honors and Awards
 
 Service and leadership
 ======
-* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR Aug 2024, COLING 2025, ICLR 2025
+* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR 2024, COLING 2025, ICLR 2025
 * Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*
