@@ -12,9 +12,9 @@ Hi, my name is Huihan Li. I'm a third year PhD student working on Natural Langua
 
 I am passionate about Natural Language Processing, Computational Linguistics, and everything about languages. In high school, I competed in [International Linguistics Olympiad](https://ioling.org/) representing China, and won an Honorable Mention in Sofia, Bulgaria (2015) and a Bronze Medal in Mysore, India (2016).
 
-Outside of research, I enjoy all kinds of sports, cooking/baking, and reading. I played water polo in college and it had been one of my best memories. Currently, I am learning tennis.
+Outside of research, I enjoy all kinds of sports, cooking/baking, and reading. I played water polo in college and it has been one of my best memories. Currently, I am learning tennis.
 
-** I am actively looking for Summer 2025 Research internships. If my background seems fit to your team, please definitely reach out! **
+**I am actively looking for Summer 2025 Research internships. If my background seems fit to your team, please definitely reach out!**
 
 Research
 ======
@@ -24,6 +24,7 @@ Previously, I have worked on conversation models, constraint decoding, culture b
 
 News
 ======
+* **January 2024**. Our [paper](https://arxiv.org/abs/2412.20760), "Attributing Culture-Conditioned Generations to Pretraining Corpora", is accepted to ICLR 2025. See you in Singapore in April!
 * **September 2024**. Our [paper](https://arxiv.org/abs/2311.07237), "In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search", is accepted to EMNLP 2024 Main Conference. See you in Miami in November!
 * **August 2024**. I am awarded the [Amazon ML PhD Fellowship](https://trustedai.usc.edu/fellowships) for 2024-2025. This fellowship will support my work on Secure and Trusted Machine Learning.
 * **July 2024**. Our [paper](https://arxiv.org/abs/2404.10199), "CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting", is accepted to COLM 2024. See you in Philly in October!
@@ -40,8 +41,8 @@ Experience
   * Research in Natural Language Processing
   * Advisor: Xiang Ren
 
-* **AI2, Mosaic**. Research Intern. *May 2023 - Present*
-  * Work on Multicultural biases in LM
+* **AI2, Mosaic**. Research Intern. *May 2023 - March 2024*
+  * Research in Multicultural biases in LM
   * Mentor: Nouha Dziri, Yejin Choi
 
 * **Apple**. AI/ML Intern. *May 2022 - Aug. 2022*
