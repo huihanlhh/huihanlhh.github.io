@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Huihan Li. I'm a third year PhD student working on Natural Language Processing in University of Southern California. I'm part of the [INK Lab](https://inklab.usc.edu/), advised by [Xiang Ren](https://shanzhenren.github.io/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
+Hi, my name is Huihan Li. I'm a fourth year PhD student working on Natural Language Processing in University of Southern California. I'm part of the [INK Lab](https://inklab.usc.edu/), advised by [Xiang Ren](https://shanzhenren.github.io/). I got my M.S.E in Computer Science from Princeton University, being part of the [Princeton Natural Language Processing Group](https://princeton-nlp.github.io/) and advised by [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I studied Computer Science and Cognitive & Linguistic Sciences at [Wellesley College](https://www.wellesley.edu/), working with [Christine Bassem](https://www.wellesley.edu/cs/faculty/bassem) on human crowdsensing.
 
 I am passionate about Natural Language Processing, Computational Linguistics, and everything about languages. In high school, I competed in [International Linguistics Olympiad](https://ioling.org/) representing China, and won an Honorable Mention in Sofia, Bulgaria (2015) and a Bronze Medal in Mysore, India (2016).
 
@@ -40,6 +40,10 @@ Experience
   * Research in Natural Language Processing
   * Advisor: Xiang Ren
 
+* **Meta, GenAI**. Research Intern. *May 2025 - Aug. 2025*
+  * Research in RL for Reasoning
+  * Mentor: Bo Xiong, Liang Tan, Yipin Zhou, Derek Hao Hu
+
 * **AI2, Mosaic**. Research Intern. *May 2023 - March 2024*
   * Research in Multicultural biases in LM
   * Mentor: Nouha Dziri, Yejin Choi
@@ -69,5 +73,5 @@ Honors and Awards
 
 Service and leadership
 ======
-* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR 2024, COLING 2025, ICLR 2025
+* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR 2024, COLING 2025, ICLR 2025, ACL 2025, EMNLP 2025
 * Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*

@@ -1,8 +1,8 @@
 ---
 title: "Attributing Culture-Conditioned Generations to Pretraining Corpora"
 collection: publications
-date: 2024-12-30
-venue: 'ICLR 2025'
+date: 2025-04-26
+venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2412.20760'
 link: 'https://arxiv.org/abs/2412.20760'
 codeurl: 'https://github.com/huihanlhh/CultureGenAttr'

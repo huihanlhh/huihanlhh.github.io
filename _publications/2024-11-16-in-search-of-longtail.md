@@ -1,8 +1,8 @@
 ---
 title: "In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search"
 collection: publications
-date: 2024-02-27
-venue: 'EMNLP 2024'
+date: 2024-11-16
+venue: 'EMNLP'
 paperurl: 'https://arxiv.org/abs/2311.07237'
 link: 'https://arxiv.org/abs/2311.07237'
 codeurl: 'https://github.com/INK-USC/LINK/'
