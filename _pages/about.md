@@ -75,5 +75,5 @@ Honors and Awards
 
 Service and leadership
 ======
-* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR 2024, COLING 2025, ICLR 2025, ACL 2025, COLM 2025 EMNLP 2025
+* Reviewer. COLING 2024, ACL 2024, EMNLP 2024, ARR 2024, COLING 2025, ICLR 2025, ACL 2025, COLM 2025, EMNLP 2025
 * Student Representative on Board of Admission. Wellesley College. *Oct. 2019 - May 2020*
