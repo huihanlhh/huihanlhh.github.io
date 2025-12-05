@@ -14,7 +14,7 @@ I am passionate about Natural Language Processing, Computational Linguistics, an
 
 Outside of research, I enjoy all kinds of sports, cooking/baking, and reading. I played water polo in college and it has been one of my best memories. Currently, I am learning tennis. 
 
-A functional, pain-free body is the foundation of all pursuits and endeavors. From my years of PT visits, I tried summarizing my learnings in a [crash course](https://huihanlhh.github.io/miscellaneous/self-physical-therapy-empowering-recovery/) on self-diagnosing and managing common bodily pains. I hope this is helpful for whomever is visiting my site :heart:.
+A functional, pain-free body is the foundation of all pursuits and endeavors. From my years of PT visits, I tried summarizing my learnings in a [crash course](https://huihanlhh.github.io/miscellaneous/self-physical-therapy-empowering-recovery/) on self-diagnosing and managing common bodily pains. I hope this is helpful for whomever is visiting my site ❤️.
 
 Research
 ======

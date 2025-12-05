@@ -20,6 +20,7 @@ I created this 10-min crash course on how to understand and self-diagnose some o
 ## Resources
 
 [Download: Slides](https://docs.google.com/presentation/d/1WbqIrDYEZ-JGETDA9zg67ZbJSVMD_BAZIa-RFxEF28Q/edit?usp=sharing)
+
 [Download: Handout for Self-PT](/files/Handout-for-Self-PT.pdf)
 
 
