@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huihan Li"
 title_separator          : "-"
 name                     : &name "Huihan Li"
-description              : &description "PhD student @USCNLP"
+description              : &description "Huihan Li is a USC PhD candidate working on LLM reasoning, post-training, agent evaluation, and understanding how pretraining data shapes model behavior."
 url                      : https://huihanlhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huihanlhh/huihanlhh.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Huihan Li"
   avatar           : "huihan_li.jpg"
-  bio              : "NLP @USCNLP"
+  bio              : "LLM evaluation · interpretability & attribution · agent systems"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NxdcyroAAAAJ&hl=en&oi=ao"
-  email            : "huihanl[at]usc[dot]edu"
+  email            : "huihanl@usc.edu"
   cv               : "https://huihanlhh.github.io/files/Huihan_Li_CV.pdf"
   researchgate     : 
   uri              :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/huihan-li/"
+  linkedin         : "huihan-li"
   orcid            : 
   pinterest        :
   soundcloud       :

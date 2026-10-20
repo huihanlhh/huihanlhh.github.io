@@ -1,0 +1,19 @@
+# Featured industry research shown on the homepage (rendered by _includes/home/experience.html).
+# One high-level sentence per role; the CV carries the detailed account. Newest first.
+- organization: Adobe
+  team: Adobe Experience Platform
+  team_url: https://business.adobe.com/products/experience-platform/adobe-experience-platform/
+  role: Applied Scientist Engineering Intern
+  year: 2026
+  summary: >-
+    Led a research and productionization project on reliable enterprise agent orchestration, building production-grounded
+    evaluation for improving routing reliability against a growing capability catalog, nondeterministic agent trajectories,
+    and sparse enterprise data.
+- organization: Meta
+  team: GenAI
+  team_url: https://ai.meta.com/research/
+  role: Research Intern
+  year: 2025
+  summary: >-
+    Studied how decoding-temperature schedules affect diversity and accuracy in GRPO post-training for mathematical
+    reasoning.

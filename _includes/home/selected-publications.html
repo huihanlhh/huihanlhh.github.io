@@ -1,0 +1,28 @@
+{%- comment -%}
+Selected papers for the homepage, in citation style. Source of truth is _publications/*.md:
+mark a paper with `selected: true` and an `order`; optional `award`, `projecturl`, `dataurl`.
+Title, authors, venue, date, paperurl and codeurl are shared with /publications/.
+{%- endcomment -%}
+{%- assign featured = site.publications | where: "selected", true | sort: "order" -%}
+{%- assign me = site.author.name -%}
+{%- capture me_bold %}<strong>{{ me }}</strong>{% endcapture -%}
+<p class="pub-note">* indicates equal contribution.</p>
+<ol class="home-pubs">
+{%- for pub in featured %}
+  <li>
+    <span class="pub-title">{{ pub.title }}</span><br>
+    {%- if pub.authors %}
+    <span class="pub-authors">{{ pub.authors | replace: me, me_bold }}.</span>
+    {%- endif %}
+    <span class="pub-venue">{{ pub.venue }} {{ pub.date | date: "%Y" }}.</span>
+    {%- if pub.award %} <span class="pub-award">{{ pub.award }}</span>{% endif %}<br>
+    <span class="pub-links">
+      {%- if pub.paperurl %}[<a href="{{ pub.paperurl }}">Paper</a>] {% endif -%}
+      {%- if pub.codeurl %}[<a href="{{ pub.codeurl }}">Code</a>] {% endif -%}
+      {%- if pub.projecturl %}[<a href="{{ pub.projecturl }}">Project</a>] {% endif -%}
+      {%- if pub.dataurl %}[<a href="{{ pub.dataurl }}">Data</a>]{% endif -%}
+    </span>
+  </li>
+{%- endfor %}
+</ol>
+<p class="home-more"><a href="{{ '/publications/' | relative_url }}">Full publication list →</a></p>

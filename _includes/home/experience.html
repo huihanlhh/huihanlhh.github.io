@@ -1,0 +1,10 @@
+{%- comment -%} Featured industry research, from _data/experience.yml. One sentence per role. {%- endcomment -%}
+<ul class="home-exp">
+{%- for job in site.data.experience %}
+  <li>
+    <span class="exp-org">{{ job.organization }}{% if job.team %}, {% if job.team_url %}<a href="{{ job.team_url }}">{{ job.team }}</a>{% else %}{{ job.team }}{% endif %}{% endif %}</span>
+    <span class="exp-role">— {{ job.role }}, {{ job.year }}</span><br>
+    {{ job.summary }}
+  </li>
+{%- endfor %}
+</ul>

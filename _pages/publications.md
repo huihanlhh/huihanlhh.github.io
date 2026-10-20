@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+<p class="pub-note">* indicates equal contribution.</p>
+
 {% for post in site.publications reversed %}
   {% include archive-publication.html %}
 {% endfor %} 
