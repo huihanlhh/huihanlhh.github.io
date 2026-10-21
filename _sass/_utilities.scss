@@ -468,3 +468,13 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+/*
+   Dashed section divider (e.g. between the overview and the sections on /outside-the-lab/)
+   ========================================================================== */
+
+hr.dashed {
+  margin: 2em 0;
+  border: 0;
+  border-top: 1px dashed $light-gray;
+}

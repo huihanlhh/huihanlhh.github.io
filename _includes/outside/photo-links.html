@@ -1,0 +1,18 @@
+{%- comment -%}
+Inline numbered photo links, e.g. " ([1], [2])". Usage:
+  {% include outside/photo-links.html photos=site.data.outside.water_polo %}
+Each photo in _data/outside.yml has `file` (under images/outside/) and optional `caption`, `credit`.
+Renders nothing when the list is empty, so prose stays valid before photos are added.
+{%- endcomment -%}
+{%- if include.photos and include.photos.size > 0 -%}
+{%- capture links -%}
+{%- for ph in include.photos -%}
+<a href="{{ '/images/outside/' | append: ph.file | relative_url }}" title="{{ ph.caption | default: '' }}">[{{ forloop.index }}]</a>{% unless forloop.last %}, {% endunless %}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign credited = include.photos | where_exp: "p", "p.credit" -%}
+{%- capture credits -%}
+{%- if credited.size > 0 %}; photo credit: {% for ph in credited %}{{ ph.credit }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif -%}
+{%- endcapture -%}
+{{ " (" | append: links | append: credits | append: ")" }}
+{%- endif -%}

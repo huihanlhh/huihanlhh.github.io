@@ -1,19 +1,27 @@
 # Featured industry research shown on the homepage (rendered by _includes/home/experience.html).
 # One high-level sentence per role; the CV carries the detailed account. Newest first.
 - organization: Adobe
+  key: adobe
   team: Adobe Experience Platform
   team_url: https://business.adobe.com/products/experience-platform/adobe-experience-platform/
   role: Applied Scientist Engineering Intern
   year: 2026
+  mentors:
+    - name: Yunyao Li
+      url: https://yunyaoli.github.io/
   summary: >-
     Led a research and productionization project on reliable enterprise agent orchestration, building production-grounded
     evaluation for improving routing reliability against a growing capability catalog, nondeterministic agent trajectories,
     and sparse enterprise data.
 - organization: Meta
+  key: meta
   team: GenAI
   team_url: https://ai.meta.com/research/
   role: Research Intern
   year: 2025
+  mentors:
+    - name: Liang Tan
+      url: https://www.linkedin.com/in/liang-tan-6646a484/
   summary: >-
     Studied how decoding-temperature schedules affect diversity and accuracy in GRPO post-training for mathematical
     reasoning.

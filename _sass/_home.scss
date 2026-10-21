@@ -40,3 +40,6 @@
   font-size: 0.85em;
   color: mix(#000, $gray, 30%);
 }
+
+.home-pubs > li[id],
+.home-exp > li[id] { scroll-margin-top: 1em; }

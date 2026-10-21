@@ -1,0 +1,9 @@
+# Photos for /outside-the-lab/. Drop image files into images/outside/ and list them here.
+# Each entry: file (required), caption (optional, shown on hover), credit (optional).
+# An empty list renders no links, so it is safe to leave a section empty until you have a photo.
+water_polo:
+  - file: water-polo.jpg
+    caption: Water polo in college
+iol: []
+#  - file: iol-2016.jpg
+#    caption: IOL 2016, Mysore

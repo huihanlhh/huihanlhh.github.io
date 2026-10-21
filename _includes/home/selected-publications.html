@@ -9,7 +9,7 @@ Title, authors, venue, date, paperurl and codeurl are shared with /publications/
 <p class="pub-note">* indicates equal contribution.</p>
 <ol class="home-pubs">
 {%- for pub in featured %}
-  <li>
+  <li{% if pub.key %} id="{{ pub.key }}"{% endif %}>
     <span class="pub-title">{{ pub.title }}</span><br>
     {%- if pub.authors %}
     <span class="pub-authors">{{ pub.authors | replace: me, me_bold }}.</span>

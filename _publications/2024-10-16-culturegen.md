@@ -8,5 +8,6 @@ link: 'https://arxiv.org/abs/2404.10199'
 codeurl: 'https://github.com/huihanlhh/Culture-Gen'
 authors: 'Huihan Li, Liwei Jiang, Jena D. Hwang, Hyunwoo Kim, Sebastin Santy, Taylor Sorensen, Bill Yuchen Lin, Nouha Dziri, Xiang Ren, Yejin Choi'
 selected: true
+key: culturegen
 order: 4
 ---

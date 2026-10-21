@@ -1,9 +1,9 @@
 {%- comment -%} Featured industry research, from _data/experience.yml. One sentence per role. {%- endcomment -%}
 <ul class="home-exp">
 {%- for job in site.data.experience %}
-  <li>
+  <li{% if job.key %} id="{{ job.key }}"{% endif %}>
     <span class="exp-org">{{ job.organization }}{% if job.team %}, {% if job.team_url %}<a href="{{ job.team_url }}">{{ job.team }}</a>{% else %}{{ job.team }}{% endif %}{% endif %}</span>
-    <span class="exp-role">— {{ job.role }}, {{ job.year }}</span><br>
+    <span class="exp-role">— {{ job.role }}, {{ job.year }}{% if job.mentors %}, with {% for m in job.mentors %}{% if m.url %}<a href="{{ m.url }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span><br>
     {{ job.summary }}
   </li>
 {%- endfor %}
