@@ -13,7 +13,7 @@ redirect_from:
 
 🤽‍♀️ I played water polo in college and served as president of our water polo club for three years. Here's a photo of me scoring a goal: {% include outside/photo-links.html photos=site.data.outside.water_polo %}.
 
-🧩 In high school, I represented China at the [International Linguistics Olympiad](https://ioling.org/) in Bulgaria (2015, Honorable Mention) and India (2016, Bronze Medal){% include outside/photo-links.html photos=site.data.outside.iol %}. If you have never seen an IOL problem, try the [sample problems](https://ioling.org/problems/samples/). If you are an ambitious linguist in disguise, try the [2015](https://ioling.org/problems/2015/) or [2016](https://ioling.org/problems/2016/) sets. It's really fun!
+🧩 In high school, I represented China at the [International Linguistics Olympiad](https://ioling.org/) in Bulgaria (2015, Honorable Mention) and India (2016, Bronze Medal). If you have never seen an IOL problem, try the [sample problems](https://ioling.org/problems/samples/). If you are an ambitious linguist in disguise, try the [2015](https://ioling.org/problems/2015/) or [2016](https://ioling.org/problems/2016/) sets. It's really fun!
 
 🗣️ I am a perpetual beginner in Japanese and Korean, thanks to anime and K-dramas. My Spanish was once fairly advanced after attending the [Middlebury Language Schools](https://www.middlebury.edu/language-schools/how-it-works/programs/immersion) immersion program (highly recommend!), but it has gone rusty since.
 
